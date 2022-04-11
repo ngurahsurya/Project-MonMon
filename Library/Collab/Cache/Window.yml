@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Graphic.meta
+    - Assets/Graphic/Dummy.meta
+    - Assets/Graphic/Dummy/ground.png
+    - Assets/Graphic/Dummy/ground.png.meta
+    - Assets/Graphic/Dummy/ground_asphalt.png
+    - Assets/Graphic/Dummy/ground_asphalt.png.meta
+    - Assets/Graphic/Dummy/ground_dirt.png
+    - Assets/Graphic/Dummy/ground_dirt.png.meta
+    - Assets/Graphic/Dummy/ground_grass.png
+    - Assets/Graphic/Dummy/ground_grass.png.meta
+    - Assets/Graphic/Dummy/ground_pond.png
+    - Assets/Graphic/Dummy/ground_pond.png.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Ground (1).prefab
+    - Assets/Prefabs/Ground (1).prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Script.meta
+    - Assets/Script/CameraMovement.cs
+    - Assets/Script/CameraMovement.cs.meta
+    - Assets/Script/Manager.meta
+    - Assets/Script/Manager/GameManager.cs
+    - Assets/Script/Manager/GameManager.cs.meta
+    - Assets/Script/PUBLIC.meta
+    - Assets/Script/PUBLIC/GameState.cs
+    - Assets/Script/PUBLIC/GameState.cs.meta
+    - Assets/Script/PUBLIC/Services.cs
+    - Assets/Script/PUBLIC/Services.cs.meta
+    - Assets/Script/Pet.meta
+    - Assets/Script/Pet/Interact.meta
+    - Assets/Script/Pet/Item.meta
+    - Assets/Script/Pet/Pet.meta
+    - Assets/Script/Pet/Pet/Behaviour.meta
+    - Assets/Script/Pet/Pet/Behaviour/PetEating.cs
+    - Assets/Script/Pet/Pet/Behaviour/PetEating.cs.meta
+    - Assets/Script/Pet/Pet/Behaviour/PetInteract.cs
+    - Assets/Script/Pet/Pet/Behaviour/PetInteract.cs.meta
+    - Assets/Script/Pet/Pet/Behaviour/PetMovement.cs
+    - Assets/Script/Pet/Pet/Behaviour/PetMovement.cs.meta
+    - Assets/Script/Pet/Pet/Behaviour/PetPlaying.cs
+    - Assets/Script/Pet/Pet/Behaviour/PetPlaying.cs.meta
+    - Assets/Script/Pet/Pet/Behaviour/PetSleeping.cs
+    - Assets/Script/Pet/Pet/Behaviour/PetSleeping.cs.meta
+    - Assets/Script/Pet/Pet/Pet.cs
+    - Assets/Script/Pet/Pet/Pet.cs.meta
+    - Assets/Script/Pet/Pet/State Action.meta
+    - Assets/Script/Pet/Pet/State Action/Pet_StateAction.cs
+    - Assets/Script/Pet/Pet/State Action/Pet_StateAction.cs.meta
+    - Assets/Script/Swipe.cs
+    - Assets/Script/Swipe.cs.meta
+    - Assets/Script/Tiles.meta
+    - Assets/Script/Tiles/Object.meta
+    - Assets/Script/Tiles/Object/Tiles.cs
+    - Assets/Script/Tiles/Object/Tiles.cs.meta
+    - Assets/Script/Tiles/TilesController.cs
+    - Assets/Script/Tiles/TilesController.cs.meta
+    - Assets/Script/Tiles/TilesDebugger.cs
+    - Assets/Script/Tiles/TilesDebugger.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
